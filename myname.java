@@ -8,7 +8,7 @@ public class myname {
        System.out.println("653040145-1");
        System.out.println("I am Engineering student");
        System.out.println("My major is Computer Engineering");
-       System.out.println("I already know how to use git");
+       System.out.println("I already know how to use git  555555 ");
     }
     
 }
